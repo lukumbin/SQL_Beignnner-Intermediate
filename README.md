@@ -1,2 +1,8 @@
 # SQL_Beignnner-Intermediate
-My sql scripts, practice makes perfect!
+SQL scripts from ranging from basic to advanced queries and functions. 
+
+**Tools**
+MySQL 
+
+
+
